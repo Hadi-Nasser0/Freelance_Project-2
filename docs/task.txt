@@ -1,0 +1,24 @@
+Academy
+
+Academy est notre entreprise, une start-up de la EdTech qui propose des formations en ligne pour les lycéens et les enseignements supérieurs.
+
+Mission
+
+A partir des données de la Banque mondiale, réaliser une pré-analyse exploratoire permettant de répondre aux interrogations suivantes :
+
+Quels sont les pays avec un fort potentiel de clients pour nos services ?
+Pour chacun de ces pays, quelle sera l’évolution de ce potentiel de clients ?
+Dans quels pays l'entreprise doit-elle opérer en priorité ?
+Source: Banque mondiale
+
+Processus-Stratégie
+
+Analyse des données (qualité, quantité, cohérence des données)
+Sélection des indicateurs les plus pertinents pour notre cible :
+démographique : une population des 15-24 ans élevée,
+éducatif : pour la tranche 15-24 ans des niveaux lycée et enseignements supérieurs,
+économique : vérifier les niveaux de vie de la population,
+numérique : accès à internet inidspensable pour les formations, la proprieté d'un ordinateur ou d'une tablette , l'accès à l'électricité...
+Score pour classer le potentiel des pays
+Prédictions
+Conclusions
